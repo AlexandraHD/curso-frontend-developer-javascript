@@ -130,6 +130,7 @@
     position: absolute;
     top: 65px;
     width: 100%;
+    left: 0;
   }
   .mobile-menu a {
     text-decoration: none;
@@ -353,6 +354,7 @@ aside {
     .desktop-menu {
         display: none;
     }
+    
     aside {
         width: 100%;
     }
